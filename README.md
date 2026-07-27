@@ -49,6 +49,7 @@
 
 | Tool | What it does |
 |------|-------------|
+| [**Seelen UI**](https://github.com/eythaann/Seelen-UI) | Full desktop environment replacement: custom taskbar, dock, tiling WM, widgets, media controls, app launcher. Built with Rust + Tauri. 17k stars. ([Microsoft Store](https://apps.microsoft.com/detail/9P67C2D4T9FB)) |
 | [**MyDockFinder**](https://store.steampowered.com/app/1787090/MyDockFinder/) | Mac-like dock and Finder bar. Pair with [Tray Weather](https://github.com/FelixdelasPozas/TrayWeather) for a weather icon. |
 | [**WinDynamicDesktop**](https://github.com/t1m0thyj/WinDynamicDesktop) | Wallpaper that changes with time of day. |
 | [**Wallpaper Engine**](https://www.wallpaperengine.io/en) | Animated wallpapers. |
@@ -69,6 +70,7 @@
 
 | Tool | What it does |
 |------|-------------|
+| [**TranslucentTB**](https://github.com/TranslucentTB/TranslucentTB) | Taskbar clear/blur/acrylic/opaque with per-state rules. 20k stars. ([Microsoft Store](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9)) |
 | [**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica) | Background blur for Explorer windows. |
 | [**TranslucentFlyouts**](https://github.com/ALTaleX531/TranslucentFlyouts) | Background blur for context menus. |
 | [**RoundedTB**](https://github.com/RoundedTB/RoundedTB) | Margins and/or rounded corners on the taskbar. |
@@ -125,6 +127,7 @@
 | [**Mp3tag**](https://www.mp3tag.de/en/) | Edit audio metadata. Fixes half-broken album art. |
 | [**Veeam Agent**](https://www.veeam.com/agent-for-windows-community-edition.html) | Painless incremental backups of your entire system. Free! |
 | [**Chocolatey**](https://chocolatey.org/) | Package manager via PowerShell. Being superseded by [winget](https://winget.run/). |
+| [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) | Free privacy/telemetry controls. Disable tracking, data collection, and unwanted services. |
 
 ---
 
@@ -140,6 +143,8 @@
 | [**ExplorerPatcher**](https://github.com/valinet/ExplorerPatcher) | Restores Win10 functionality in Win11. Clean Alt-Tab, taskbar weather, and more. |
 | [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) | Hundreds of "secret" Windows settings in one GUI. |
 | [**EarTrumpet**](https://github.com/File-New-Project/EarTrumpet) | Per-app volume control from the system tray. |
+| [**Sophia Script**](https://github.com/Sophia-Community/Sophia-Script-for-Windows) | PowerShell script to debloat and customize Win10/11. GUI or CLI. |
+| [**Wintoys**](https://wintoys.com/) | Clean GUI for disabling telemetry, managing startup, and tweaking hidden settings. |
 
 ### Search & Navigation
 
@@ -154,6 +159,7 @@
 | Tool | What it does |
 |------|-------------|
 | [**AltSnap**](https://github.com/RamonUnch/AltSnap) | Move/resize windows with Alt+click. Always-on-top, roll-up, close with middle-click. |
+| [**FancyWM**](https://github.com/fancywm/fancywm) | Tiling window manager for Win10/11. Keyboard-driven BSP/column/stack layouts. |
 | [**OnTopReplica**](https://github.com/LorenzCK/OnTopReplica) | Always-on-top PIP for any window. Roll your own PIP for [Stremio](https://www.stremio.com/) etc. |
 | [**windows-terminal-quake**](https://github.com/flyingpie/windows-terminal-quake) | Quake mode for Windows Terminal (more stable than built-in). |
 
@@ -161,6 +167,7 @@
 
 | Tool | What it does |
 |------|-------------|
+| [**ShareX**](https://github.com/ShareX/ShareX) | Power-user screenshot tool: region/window/scrolling capture, GIF recording, OCR, annotation, 80+ upload destinations. 35k stars. |
 | [**Ditto**](https://ditto-cp.sourceforge.io/) | Clipboard manager. |
 | [**Snipaste**](https://www.snipaste.com/) | Screen snipping with auto-detection of UI regions. |
 | [**SnipDo**](https://snipdo-app.com/) | Text selection popup with quick actions (search, translate, copy). |
@@ -169,6 +176,8 @@
 
 | Tool | What it does |
 |------|-------------|
+| [**Files**](https://github.com/files-community/Files) | Modern file manager with tabs, dual pane, column view, tags, cloud integration, Git support. 44k stars. ([files.community](https://files.community/)) |
+| [**NanaZip**](https://github.com/M2Team/NanaZip) | 7-Zip fork for modern Windows — dark mode, Mica, Win11 context menu, MSIX packaging. ([Microsoft Store](https://apps.microsoft.com/detail/9N8G7TSCL18R)) |
 | [**QuickLook**](https://github.com/QL-Win/QuickLook) / [**Seer**](http://1218.io) | Spacebar file preview in Explorer (macOS-style). |
 | [**DragDropConfirm**](https://github.com/broken-e/DragDropConfirm) | Confirmation dialog for drag-and-drop file moves. |
 | [**ExtractNow**](https://extractnow.com/) | Double-click to unzip/unrar/etc. |
