@@ -139,6 +139,7 @@
 
 | Tool | What it does |
 |------|-------------|
+| [**Chris Titus WinUtil**](https://github.com/ChrisTitusTech/winutil) | One-stop GUI for installing programs, applying tweaks, fixing issues, and running updates. 59k stars. Run `irm christitus.com/win \| iex` in PowerShell. |
 | [**Microsoft PowerToys**](https://github.com/microsoft/PowerToys) | Always on Top, Awake, Color Picker, FancyZones, File Locksmith, Text Extractor, and more. Use [XnShell](https://www.xnview.com/en/xnshell/) instead of Image Resizer. |
 | [**ExplorerPatcher**](https://github.com/valinet/ExplorerPatcher) | Restores Win10 functionality in Win11. Clean Alt-Tab, taskbar weather, and more. |
 | [**Winaero Tweaker**](https://winaero.com/winaero-tweaker/) | Hundreds of "secret" Windows settings in one GUI. |
