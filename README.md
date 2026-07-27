@@ -152,6 +152,7 @@
 | Tool | What it does |
 |------|-------------|
 | [**Everything**](https://www.voidtools.com/) + [**EverythingToolbar**](https://github.com/srwi/EverythingToolbar) | Instant filename search, integrated into the taskbar. |
+| [**Flow Launcher**](https://github.com/Flow-Launcher/Flow.Launcher) | Spotlight-style app/file/web launcher with community plugin ecosystem. 15k stars. |
 | [**Listary**](https://www.listary.com/pro) | Search bar for any "Open File" dialog. Killer feature: quick find from anywhere. |
 | [**WinSetView**](https://github.com/LesFerch/WinSetView) | Set default Explorer views (e.g., always show details). |
 
